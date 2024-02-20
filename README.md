@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/santiago-federici) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/santi_federici)
-[![X](https://skillicons.dev/icons?i=linkedin)](https://x.com/santi_federici)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/santi_federici)
 
 # 💻 Tech Stack:
 ### Frontend:
