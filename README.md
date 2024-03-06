@@ -17,16 +17,3 @@
 
 #### Other:
 <img src="https://skillicons.dev/icons?i=vercel,netlify,mongodb,mysql,postgres,firebase" />
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=santiago-federici&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=santiago-federici&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-federici&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=santiago-federici&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=santiago-federici&icon=0&color=0)](https://visitcount.itsvg.in)
