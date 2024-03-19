@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,css,html,sass,bootstrap,nextjs,astro,vite" />
 
 ### Backend:
-<img src="https://skillicons.dev/icons?i=express,nodejs" />
+<img src="https://skillicons.dev/icons?i=express,nodejs,jest" />
 
 
 #### Other:
