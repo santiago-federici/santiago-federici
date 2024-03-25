@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=express,nodejs" />
 
 ### Testing:
-<img src="https://skillicons.dev/icons?i=jest,jasmine" />
+<img src="https://skillicons.dev/icons?i=jest" />
 
 
 #### Other:
