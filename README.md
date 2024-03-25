@@ -9,7 +9,7 @@
 
 # 💻 Tech Stack:
 ### Frontend:
-<img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,css,html,sass,bootstrap,nextjs,astro,vite" />
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,ts,js,css,html,sass,bootstrap,nextjs,astro,vite" />
 
 ### Backend:
 <img src="https://skillicons.dev/icons?i=express,nodejs,jest" />
