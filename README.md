@@ -1,5 +1,5 @@
 <h1>Hey, I'm Santi! 👋</h1>
-<h3>Trainee Frontend Web Developer from Mendoza, Argentina 🇦🇷. Currently studying at the university of Champagnat.</h3>
+<h3>Frontend Developer from Mendoza, Argentina with +1 year of experience.</h3>
 
 ## 🌐 Socials:
 
