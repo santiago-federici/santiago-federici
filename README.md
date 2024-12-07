@@ -7,7 +7,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/santi_federici)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/santi_federici)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Frontend:
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,css,html,sass,bootstrap,astro,vite" />
 
